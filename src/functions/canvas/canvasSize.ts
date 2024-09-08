@@ -40,4 +40,4 @@ export default new NativeFunction({
             : JSON.stringify({ width: canvas.width, height: canvas.height })
         );
     }
-});
+}); 
